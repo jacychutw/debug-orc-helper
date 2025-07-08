@@ -16,4 +16,4 @@ npm install
 npm run dev
 ```
 
-✨ 查看網站:  [[https://vue-my-notebook.vercel.app/alldata](https://debug-orc-helper.vercel.app)
+✨ 查看網站:  [https://vue-my-notebook.vercel.app/alldata](https://debug-orc-helper.vercel.app)
